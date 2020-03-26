@@ -1,5 +1,6 @@
 # NavigationDrawer
 How to apply Navigation Drawer in your app
+
  1.Make a fragment for main activity
  2.Inflate it and return in the same fragment.kt file in onCreateView .
  3. use Data Binding.
