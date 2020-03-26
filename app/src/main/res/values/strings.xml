@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="book_fiction">Fiction Books</string>
+    <string name="about_fiction_book">“Fiction” refers to literature created from the imagination. Mysteries, science fiction, romance, fantasy, chick lit, crime thrillers are all fiction genres. Examples of classic fiction include To Kill a Mockingbird by Harper Lee, A Tale of Two Cities by Charles Dickens, 1984 by George Orwell and Pride and Prejudice by Jane Austen. Our Fiction Department also has a large selection of popular movies and television shows on DVD.</string>
+    <string name="nonfiction_book">Non-Fiction Books</string>
+    <string name="about_nonfiction_book">“Nonfiction” refers to literature based in fact. It is the broadest category of literature. The Nonfiction Department has books and videos in many categories including biography, business, cooking, health and fitness, pets, crafts, home decorating, languages, travel, home improvement, religion, art and music, history, self-help, true crime, science and humor. We also have a section of popular and award-winning documentary DVDs.</string>
+    <string name="text_fragment">Difference Between Fiction and Non-Fiction Books</string>
+
+</resources>
+

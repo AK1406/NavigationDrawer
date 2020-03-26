@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/navigation"
+    app:startDestination="@id/titleFragment">
+    <fragment
+        android:id="@+id/fictionBooks"
+        android:name="com.example.navigationdrawer.FictionBooks"
+        android:label="FictionBooks" />
+    <fragment
+        android:id="@+id/nonFictionBooks"
+        android:name="com.example.navigationdrawer.NonFictionBooks"
+        android:label="NonFictionBooks" />
+    <fragment
+        android:id="@+id/titleFragment"
+        android:name="com.example.navigationdrawer.TitleFragment"
+        android:label="TitleFragment" />
+</navigation>
